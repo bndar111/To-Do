@@ -19,8 +19,12 @@ Usage : In My Daily Tasks
 
 Know Issues : 
 
-Upcoming Features : 
+Upcoming Features :
+ 
 I will add tasks to it .
+
 2- List sorting items according to the conditioned state .
+
 3- Sort by date .
+
 4- Filter items by date or adapted state .
